@@ -1,0 +1,34 @@
+{
+  "Cred": [
+    {
+      "id": 0,
+      "email": "amruta@gmail.com",
+      "password": "Amruta@123",
+      "Name": "Amruta Khmkar"
+    },
+    {
+      "id": 1,
+      "Name": "Apurva Khurud",
+      "email": "apurva@gmail.com",
+      "password": "Apurva123"
+    },
+    {
+      "id": 2,
+      "Name": "Rohit Negi",
+      "email": "Rohit@gmail.com",
+      "password": "Rohit123"
+    },
+    {
+      "id": 3,
+      "email": "Jeff@gmail.com",
+      "password": "Jeff123",
+      "Name": "Jeff Mathew"
+    },
+    {
+      "id": 4,
+      "Name": "Arpan Jain",
+      "email": "Arpan@gmail.com",
+      "password": "Arpan123"
+    }
+  ]
+}
