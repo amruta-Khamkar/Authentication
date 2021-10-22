@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/amruta-Khamkar/Authentication/static/css/main.a617e044.chunk.css",
+    "main.js": "/amruta-Khamkar/Authentication/static/js/main.065dc2c2.chunk.js",
+    "main.js.map": "/amruta-Khamkar/Authentication/static/js/main.065dc2c2.chunk.js.map",
+    "runtime-main.js": "/amruta-Khamkar/Authentication/static/js/runtime-main.04b8e140.js",
+    "runtime-main.js.map": "/amruta-Khamkar/Authentication/static/js/runtime-main.04b8e140.js.map",
+    "static/js/2.5a1626ac.chunk.js": "/amruta-Khamkar/Authentication/static/js/2.5a1626ac.chunk.js",
+    "static/js/2.5a1626ac.chunk.js.map": "/amruta-Khamkar/Authentication/static/js/2.5a1626ac.chunk.js.map",
+    "static/js/3.f63d49ee.chunk.js": "/amruta-Khamkar/Authentication/static/js/3.f63d49ee.chunk.js",
+    "static/js/3.f63d49ee.chunk.js.map": "/amruta-Khamkar/Authentication/static/js/3.f63d49ee.chunk.js.map",
+    "index.html": "/amruta-Khamkar/Authentication/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/amruta-Khamkar/Authentication/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.5a1626ac.chunk.js.LICENSE.txt": "/amruta-Khamkar/Authentication/static/js/2.5a1626ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04b8e140.js",
+    "static/js/2.5a1626ac.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.065dc2c2.chunk.js"
+  ]
+}
